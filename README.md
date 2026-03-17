@@ -28,6 +28,7 @@ src/
 │   └── users.service.ts
 ├── app.module.ts
 └── main.ts
+```
 
 ## 🚀 Como Começar
 
