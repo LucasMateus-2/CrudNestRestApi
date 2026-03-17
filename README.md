@@ -1,5 +1,3 @@
-
-````markdown
 # User Management API 🚀
 
 Uma API robusta para gerenciamento de usuários desenvolvida com **NestJS**, focada em performance e eficiência utilizando o gerenciador de pacotes **pnpm**.
@@ -10,7 +8,7 @@ Uma API robusta para gerenciamento de usuários desenvolvida com **NestJS**, foc
 
 Este projeto é um CRUD (Create, Read, Update, Delete) completo para a entidade `User`. A aplicação segue os padrões de arquitetura modular do NestJS, facilitando a escalabilidade e manutenção do código.
 
-## 🛠️ Tecnologias Utilizadas
+##🛠️ Tecnologias Utilizadas
 
 * **Runtime:** Node.js (v18+)
 * **Framework:** [NestJS](https://nestjs.com/)
@@ -30,7 +28,6 @@ src/
 │   └── users.service.ts
 ├── app.module.ts
 └── main.ts
-````
 
 ## 🚀 Como Começar
 
